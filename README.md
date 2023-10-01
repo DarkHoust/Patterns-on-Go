@@ -1,2 +1,2 @@
-# assignment1
-Golang
+# Patterns written on Golang
+
